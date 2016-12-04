@@ -1,0 +1,50 @@
+html {
+	background-color: #181D26;
+}
+
+body {
+	padding: 1em;
+}
+
+html * {
+	font-family: Consolas;
+	color: #f8f8f0;
+}
+
+h1 {
+	font-size: 3em;
+}
+
+h1, h2, h3 {
+	color: #508aaa;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+th {
+	text-align: left;
+	padding-right: 1em;
+	padding-bottom: 1em;
+	color: #508aaa;
+}
+
+th + th {
+	font-weight: normal;
+	color: #f8f8f0;
+}
+
+a {
+	color: #47959a;
+}
+
+section {
+	text-align: center;
+}
+
+#me {
+	height: 100px;
+}
+
+/* comment color: #33333c;*/
