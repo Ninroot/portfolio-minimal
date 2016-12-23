@@ -7,7 +7,7 @@ body {
 }
 
 html * {
-	font-family: Consolas;
+	font-family: Consolas, sans-serif;
 	color: #f8f8f0;
 }
 
@@ -43,8 +43,6 @@ section {
 	text-align: center;
 }
 
-#me {
-	height: 100px;
+em {
+	color: #33333c;
 }
-
-/* comment color: #33333c;*/
