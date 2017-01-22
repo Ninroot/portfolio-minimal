@@ -1,2 +1,2 @@
 # Portfolio
-My minimalist portfolio template. Feel free to use it !
+My minimalist portfolio website template. Feel free to use it !
